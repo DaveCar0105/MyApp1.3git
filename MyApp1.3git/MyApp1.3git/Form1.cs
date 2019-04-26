@@ -21,5 +21,10 @@ namespace MyApp1._3git
         {
             MessageBox.Show("pendiente... de programar");
         }
+
+        private void Button2_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("pendiente de programar 2.0");
+        }
     }
 }
