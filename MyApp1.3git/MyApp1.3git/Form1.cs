@@ -19,7 +19,7 @@ namespace MyApp1._3git
 
         private void Label2_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("pendiente...");
+            MessageBox.Show("pendiente... de programar");
         }
     }
 }
